@@ -7,7 +7,7 @@ I'm a **Software Engineering Student** and a **Software Engineering Intern** at 
 ### 🚀 About Me
 - 🎓 Senior Software Engineering Student.
 - 💼 **Software Engineering Intern**
-- 💻 **Fullstack Focused** | Developing with Java and SQL.
+- 💻 **Fullstack Focused** | Developing with Java.
 - 🤖 Interested in AI-integrated systems and smart applications.
 
 ### 🛠️ Tech Stack
