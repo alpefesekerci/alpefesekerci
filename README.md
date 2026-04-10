@@ -11,7 +11,7 @@ I'm a **Software Engineering Student** and a **Software Engineering Intern** at 
 - 🤖 Interested in AI-integrated systems and smart applications.
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, C, Python
+- **Languages:** Java, C, Python, JavaScript, C++
 - **Web:** HTML, CSS
 - **Database:** SQL
 - **Current Project:** Building **YIKA**, an AI-integrated smart laundry management system.
